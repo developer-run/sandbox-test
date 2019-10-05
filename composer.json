@@ -1,0 +1,18 @@
+{
+  "name": "devrun/sandbox-test",
+  "description": "DevRun test structure",
+  "keywords": ["devrun", "test structure"],
+  "minimum-stability": "dev",
+  "homepage": "http://devrun.cz",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Pavel Paulík"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1-dev"
+    }
+  }
+}
