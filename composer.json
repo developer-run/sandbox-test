@@ -2,8 +2,7 @@
   "name": "devrun/sandbox-test",
   "description": "DevRun test structure",
   "keywords": ["devrun", "test structure"],
-  "minimum-stability": "dev",
-  "homepage": "http://devrun.cz",
+  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
